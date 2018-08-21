@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "--exec 'npm run node' ./node_modules/nodemon/bin/nodemon.js src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.4.0",
+    "nodemon": "^1.18.3"
+  }
+}
