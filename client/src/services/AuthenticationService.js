@@ -6,7 +6,7 @@ export default {
   }
 }
 
-// AuthenticationService.Register({
+// AuthenticationService.register({
 //   email: 'testingmail@gmail.com',
 //   password: '123456'
 // })
